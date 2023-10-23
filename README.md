@@ -12,7 +12,5 @@ This repository provides the implementation necessary to reproduce the experimen
 - Movielens_setting.ipynb: DiSC-UCB code for the MovieLens dataset. 
 - Movielens_agent.ipynb: DiSC-UCB implementation for experiments with varying arm numbers for the MovieLens data. 
 - Movielens_alpha.ipynb: DiSC-UCB implementation for experiments with varying alpha values for the MovieLens data. 
-
-Lastly:
 - Unknown_Baseline_Reward_synthetic.ipynb:  Contains both DiSC-UCB and DiSC-UCB2 implementations for synthetic data.
 - Unknown_Baseline_Reward_movielens.ipynb: Contains the DiSC-UCB and DiSC-UCB2 code specifically for the Movielens dataset. 
